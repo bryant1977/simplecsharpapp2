@@ -1,0 +1,13 @@
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\bin\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.exe
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\bin\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.deps.json
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\bin\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.runtimeconfig.json
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\bin\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.runtimeconfig.dev.json
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\bin\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.dll
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\bin\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.pdb
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.csprojAssemblyReference.cache
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.AssemblyInfo.cs
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.dll
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.pdb
+C:\Users\Ebrahim\source\repos\simplecsharpconsoleapp\simplecsharpconsoleapp\obj\Debug\netcoreapp3.1\SimpleCSharpConsoleApp.genruntimeconfig.cache
