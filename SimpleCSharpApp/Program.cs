@@ -9,6 +9,7 @@ namespace simplecsharpapp
             // Display a simple message to the user.
             Console.WriteLine("***** My First C# App ******");
             Console.WriteLine("Hello World!");
+            Console.WriteLine("****************************");
             Console.WriteLine();
 
             // Wait for Enter key to be pressed beffore shutting down.
