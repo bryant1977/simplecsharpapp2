@@ -1,0 +1,13 @@
+C:\Users\Ebrahim\source\repos\simplecsharpapp\bin\Debug\netcoreapp3.1\simplecsharpapp.exe
+C:\Users\Ebrahim\source\repos\simplecsharpapp\bin\Debug\netcoreapp3.1\simplecsharpapp.deps.json
+C:\Users\Ebrahim\source\repos\simplecsharpapp\bin\Debug\netcoreapp3.1\simplecsharpapp.runtimeconfig.json
+C:\Users\Ebrahim\source\repos\simplecsharpapp\bin\Debug\netcoreapp3.1\simplecsharpapp.runtimeconfig.dev.json
+C:\Users\Ebrahim\source\repos\simplecsharpapp\bin\Debug\netcoreapp3.1\simplecsharpapp.dll
+C:\Users\Ebrahim\source\repos\simplecsharpapp\bin\Debug\netcoreapp3.1\simplecsharpapp.pdb
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.csprojAssemblyReference.cache
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.AssemblyInfoInputs.cache
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.AssemblyInfo.cs
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.csproj.CoreCompileInputs.cache
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.dll
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.pdb
+C:\Users\Ebrahim\source\repos\simplecsharpapp\obj\Debug\netcoreapp3.1\simplecsharpapp.genruntimeconfig.cache
